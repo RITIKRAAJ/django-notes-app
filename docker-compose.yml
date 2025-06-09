@@ -1,6 +1,6 @@
-version : "3.8"
-services :
-  web :
+version: "3.3"
+services:
+  web:
      image: "rithikraj01/notes-app:latest"
-     ports :
+     ports:
          - "8000:8000"
